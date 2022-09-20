@@ -1,5 +1,9 @@
-x=int(input("zadaj cislo: "))
-if x%2==0:
-    print("cislo je parne")
+x=float(input("zadaj mi ciselko:"))
+a=float(input("zaciatok intervalu:"))
+b=float(input("koniec intervalu:"))
+
+if a<x<b:
+    print("ciselko patri do intervalu :)")
 else:
-    print("cislo je neparne")
+    print("ciselko nepatri do intervalu :(")
+
