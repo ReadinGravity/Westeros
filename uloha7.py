@@ -4,4 +4,4 @@ if x>0:
 elif x<0:
     print("ciselko je zaporne (-)")
 else:
-    print("ciselk0o je nula")
+    print("ciselko je nula")
